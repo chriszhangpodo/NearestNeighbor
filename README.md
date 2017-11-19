@@ -9,5 +9,5 @@ Please share and copy responsibly and all faults and errors in implementation is
 
 See the pictures in trained data and predicted data distance is quite small, that is how we calculate the prediction
 
-[[https://github.com/chriszhangpodo/NearestNeighbor/blob/master/Figure_1.png]]
-[[https://github.com/chriszhangpodo/NearestNeighbor/blob/master/Figure_2.png]]
+https://github.com/chriszhangpodo/NearestNeighbor/blob/master/Figure_1.png
+https://github.com/chriszhangpodo/NearestNeighbor/blob/master/Figure_2.png
